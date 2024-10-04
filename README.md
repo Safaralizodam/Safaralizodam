@@ -1,5 +1,5 @@
-#💫 About Me:
-          👋 Hi there! I'm Maryam, a frontend developer passionate about building
+ 💫 About Me
+          # 👋 Hi there! I'm Maryam, a frontend developer passionate about building
              modern and user-friendly web applications.✨I love writing clean,
                understandable code and designing user-friendly interfaces.
 
